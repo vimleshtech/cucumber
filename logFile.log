@@ -1,0 +1,40 @@
+2019-02-10 09:09:59 DEBUG Steps:30 - code is started
+2019-02-10 09:09:59 DEBUG Steps:33 - code is closed
+2019-02-10 09:09:59 DEBUG Steps:43 - code is started
+2019-02-10 09:09:59 ERROR Steps:58 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:09:59 DEBUG Steps:60 - code is closed
+2019-02-10 09:29:58 DEBUG Steps:31 - code is started
+2019-02-10 09:29:58 DEBUG Steps:34 - code is closed
+2019-02-10 09:30:18 DEBUG Steps:44 - code is started
+2019-02-10 09:30:18 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:30:18 DEBUG Steps:61 - code is closed
+2019-02-10 09:30:44 DEBUG Steps:31 - code is started
+2019-02-10 09:30:44 DEBUG Steps:34 - code is closed
+2019-02-10 09:30:47 DEBUG Steps:44 - code is started
+2019-02-10 09:30:47 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:30:47 DEBUG Steps:61 - code is closed
+2019-02-10 09:32:30 DEBUG Steps:31 - code is started
+2019-02-10 09:32:30 DEBUG Steps:34 - code is closed
+2019-02-10 09:32:34 DEBUG Steps:44 - code is started
+2019-02-10 09:32:34 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:32:34 DEBUG Steps:61 - code is closed
+2019-02-10 09:35:50 DEBUG Steps:31 - code is started
+2019-02-10 09:35:50 DEBUG Steps:34 - code is closed
+2019-02-10 09:35:54 DEBUG Steps:44 - code is started
+2019-02-10 09:35:54 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:35:54 DEBUG Steps:61 - code is closed
+2019-02-10 09:38:41 DEBUG Steps:31 - code is started
+2019-02-10 09:38:41 DEBUG Steps:34 - code is closed
+2019-02-10 09:38:43 DEBUG Steps:44 - code is started
+2019-02-10 09:38:43 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:38:43 DEBUG Steps:61 - code is closed
+2019-02-10 09:40:13 DEBUG Steps:31 - code is started
+2019-02-10 09:40:13 DEBUG Steps:34 - code is closed
+2019-02-10 09:40:16 DEBUG Steps:44 - code is started
+2019-02-10 09:40:16 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:40:16 DEBUG Steps:61 - code is closed
+2019-02-10 09:42:57 DEBUG Steps:31 - code is started
+2019-02-10 09:42:57 DEBUG Steps:34 - code is closed
+2019-02-10 09:42:59 DEBUG Steps:44 - code is started
+2019-02-10 09:42:59 ERROR Steps:59 - java.lang.ArithmeticException: / by zero
+2019-02-10 09:42:59 DEBUG Steps:61 - code is closed
